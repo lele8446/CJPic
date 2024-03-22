@@ -6,6 +6,7 @@
         "link": "",
         "appId": "itms-apps://itunes.apple.com/app/cj-pic/id1620559142?mt=8",
         "downloadUrl": "",
-        "adEnable": false
+        "adEnable": true,
+        "androidAdEnable":true
     }
 }
