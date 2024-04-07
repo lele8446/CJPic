@@ -3,7 +3,7 @@
     "msg": "success",
     "data": {
         "version": "1.0.1",
-        "reviewing": false,
+        "reviewing": true,
         "reviewVersion": "1.0.1",
         "link": "",
         "appId": "itms-apps://itunes.apple.com/app/cjdecibel-noise-detection/id6479873232?mt=8",
