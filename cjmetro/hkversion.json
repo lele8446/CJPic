@@ -5,8 +5,8 @@
         "version": "1.0.1",
         "reviewing": false,
         "reviewVersion": "1.0.0",
-        "link": "",
-        "appId": "itms-apps://itunes.apple.com/app/cjdecibel-noise-detection/id6479873232?mt=8",
+        "link": "itms-apps://itunes.apple.com/app/cjdecibel-noise-detection/id6479873232?mt=8",
+        "appId": "6479873232",
         "debugAdEnable": true
     }
 }
