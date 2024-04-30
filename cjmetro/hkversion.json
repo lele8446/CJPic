@@ -2,6 +2,7 @@
     "code": "200",
     "msg": "success",
     "data": {
+        "adEnable": true,
         "version": "1.0.1",
         "reviewing": false,
         "reviewVersion": "1.0.0",
@@ -9,6 +10,7 @@
         "appId": "6479873232",
         "debugAdEnable": false,
         "routeAdEnable": true,
-        "appStartPresentAd": false
+        "appStartPresentAd": false,
+        "gdKey": "4812a8f9ec72966e2268bdd555592eb3"
     }
 }
