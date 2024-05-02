@@ -4,12 +4,12 @@
     "data": {
         "adEnable": true,
         "version": "1.0.0",
-        "reviewing": false,
+        "reviewing": true,
         "reviewVersion": "1.0.0",
         "link": "itms-apps://itunes.apple.com/app/id6501995059",
         "appId": "6501995059",
         "debugAdEnable": true,
-        "routeAdEnable": true,
+        "routeAdEnable": false,
         "appStartPresentAd": false,
         "gdKey": "4812a8f9ec72966e2268bdd555592eb3"
     }
