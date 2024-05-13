@@ -3,7 +3,7 @@
     "msg": "success",
     "data": {
         "adEnable": true,
-        "version": "1.0.1",
+        "version": "1.0.0",
         "reviewing": true,
         "reviewVersion": "1.0.0",
         "link": "itms-apps://itunes.apple.com/app/id6502591825",
