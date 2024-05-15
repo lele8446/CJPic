@@ -10,7 +10,7 @@
         "appId": "6501995059",
         "debugAdEnable": true,
         "routeAdEnable": false,
-        "appStartPresentAd": true,
+        "appStartPresentAd": false,
         "gdKey": "4812a8f9ec72966e2268bdd555592eb3"
     }
 }
