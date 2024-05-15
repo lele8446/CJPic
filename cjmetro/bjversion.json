@@ -1,0 +1,16 @@
+{
+    "code": "200",
+    "msg": "success",
+    "data": {
+        "adEnable": true,
+        "version": "1.0.0",
+        "reviewing": true,
+        "reviewVersion": "1.0.0",
+        "link": "itms-apps://itunes.apple.com/app/id6502695124",
+        "appId": "6502695124",
+        "debugAdEnable": true,
+        "routeAdEnable": false,
+        "appStartPresentAd": true,
+        "gdKey": "4812a8f9ec72966e2268bdd555592eb3"
+    }
+}
