@@ -8,7 +8,7 @@
         "link": "",
         "appId": "itms-apps://itunes.apple.com/app/cjdecibel-noise-detection/id6479873232?mt=8",
         "downloadUrl": "",
-        "adEnable": true,
+        "adEnable": false,
         "androidAdEnable": true,
         "debugAdEnable": true
     }
