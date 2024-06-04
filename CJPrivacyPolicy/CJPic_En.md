@@ -327,8 +327,8 @@ We attach great importance to the protection of minors' personal information. Ac
 
 9. Contact us
 
-When you have other complaints, suggestions, or issues related to minors' personal information, please contact us through the APP's internal feedback channel.
+When you have any complaints, suggestions, or issues, please contact us through the in-app feedback channel, or directly email us at 641003000@qq.com or lianchijin@gmail.com.
 
 
 
-We will review the issue as soon as possible and respond within fifteen days of verifying your user identity.
+We will review the issue as soon as possible and respond within fifteen days.
