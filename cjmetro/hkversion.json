@@ -2,7 +2,7 @@
     "code": "200",
     "msg": "success",
     "data": {
-        "adEnable": false,
+        "adEnable": true,
         "version": "1.0.1",
         "reviewing": false,
         "reviewVersion": "1.0.1",
