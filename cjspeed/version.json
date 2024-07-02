@@ -4,7 +4,7 @@
     "data": {
         "adEnable": true,
         "version": "1.0.0",
-        "reviewing": true,
+        "reviewing": false,
         "reviewVersion": "1.0.0",
         "link": "itms-apps://itunes.apple.com/app/id6504850955",
         "appId": "6504850955",
