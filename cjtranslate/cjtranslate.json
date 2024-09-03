@@ -3,13 +3,13 @@
     "msg": "success",
     "data": {
         "adEnable": true,
-        "version": "1.0.1",
+        "version": "1.0.0",
         "reviewing": false,
         "reviewVersion": "1.0.0",
         "link": "itms-apps://itunes.apple.com/app/id6657990154",
         "appId": "6657990154",
         "debugAdEnable": true,
-        "routeAdEnable": true,
+        "routeAdEnable": false,
         "appStartPresentAd": false,
         "ocpKeyEnable": false,
         "ocpKey": "37fe192a926c4645b2a8f802f6d6f700"
