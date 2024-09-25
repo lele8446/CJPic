@@ -11,6 +11,7 @@
         "debugAdEnable": true,
         "routeAdEnable": false,
         "appStartPresentAd": false,
-        "gdKey": "4812a8f9ec72966e2268bdd555592eb3"
+        "gdKey": "4812a8f9ec72966e2268bdd555592eb3",
+        "subsKey": "5a06f44296124f2ebbdbde50636af8f0"
     }
 }
