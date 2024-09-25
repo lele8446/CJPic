@@ -2,12 +2,6 @@
 
 
 
-Update Date: March 21, 2024
-
-Effective Date: March 21, 2024
-
-
-
 We will help you understand how we collect, use and store your personal information and what rights you have through the APP Privacy Policy ("this Policy").
 
 
