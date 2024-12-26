@@ -13,6 +13,6 @@
     "appStartPresentAd": false,
     "gdKey": "",
     "subsKey": "",
-    "updateMsg": { "en": ["123", "hello world", "这是一段测试信息"] }
+    "updateMsg": { "en": [] }
   }
 }
