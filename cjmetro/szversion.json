@@ -4,8 +4,8 @@
   "data": {
     "adEnable": true,
     "version": "1.0.2",
-    "reviewing": false,
-    "reviewVersion": "1.0.0",
+    "reviewing": true,
+    "reviewVersion": "1.0.3",
     "link": "itms-apps://itunes.apple.com/app/id6593679598",
     "appId": "6593679598",
     "debugAdEnable": true,
@@ -14,15 +14,8 @@
     "gdKey": "4812a8f9ec72966e2268bdd555592eb3",
     "subsKey": "5a06f44296124f2ebbdbde50636af8f0",
     "updateMsg": {
-      "en": [
-        "This is test data",
-        "Fixed some known issues",
-        "Have a good time"
-      ],
-      "zh-Hans": [
-        "哈哈哈哈哈哈哈",
-        "鼎湖山读书会的核素hi u深度合适的话菊花死u和毒素hi u的时候i u很多事计划计划"
-      ]
+      "en": ["Fixed some known issues", "Optimized user experience"],
+      "zh-Hans": []
     }
   }
 }
