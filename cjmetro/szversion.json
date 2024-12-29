@@ -3,8 +3,8 @@
   "msg": "success",
   "data": {
     "adEnable": true,
-    "version": "1.0.2",
-    "reviewing": true,
+    "version": "1.0.3",
+    "reviewing": false,
     "reviewVersion": "1.0.3",
     "link": "itms-apps://itunes.apple.com/app/id6593679598",
     "appId": "6593679598",
