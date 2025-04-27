@@ -11,7 +11,7 @@
         "debugAdEnable": true,
         "routeAdEnable": false,
         "appStartPresentAd": false,
-        "ocpKeyEnable": false,
-        "ocpKey": "37fe192a926c4645b2a8f802f6d6f700"
+        "ocpKeyEnable": true,
+        "ocpKey": "7JpjBKsWSadHSEdQ92SBcgp0eOazpycX9V7ZJZO9FgRHS0Cd5UoAJQQJ99BDAC3pKaRXJ3w3AAAbACOGnQ6E"
     }
 }
