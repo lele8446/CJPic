@@ -1,0 +1,14 @@
+{
+    "code": "200",
+    "msg": "success",
+    "data": {
+        "adEnable": true,
+        "version": "1.0.0",
+        "reviewing": false,
+        "reviewVersion": "1.0.0",
+        "link": "itms-apps://itunes.apple.com/app/id6745143085",
+        "appId": "6745143085",
+        "debugAdEnable": false,
+        "appStartPresentAd": false,
+    }
+}
