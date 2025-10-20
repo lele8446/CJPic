@@ -9,7 +9,7 @@
     "link": "itms-apps://itunes.apple.com/app/id6745143085",
     "appId": "6745143085",
     "debugAdEnable": false,
-    "appStartPresentAd": true,
+    "appStartPresentAd": false,
     "addCloseEnable": false
   }
 }
